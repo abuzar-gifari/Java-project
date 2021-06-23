@@ -2,7 +2,6 @@ package employeeManagement;
 
 import java.util.Scanner;
 
-
 class Employee implements Serializable{
 
 	int id;
